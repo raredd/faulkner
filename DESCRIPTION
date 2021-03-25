@@ -1,0 +1,15 @@
+Package: faulkner
+Type: Package
+Title: Faulkner palettes
+Version: 0.0.0.9000
+Authors@R: person("Robert", "Redd", email = "raredd01@gmail.com",
+  role = c("aut", "cre"))
+Author: Robert Redd
+Maintainer: Robert Redd <raredd01@gmail.com>
+Description: Palettes generated from original Henry Faulkner paintings.
+License: GPL-2
+LazyData: yes
+URL: https://github.com/raredd/faulkner
+BugReports: https://github.com/raredd/faulkner/issues
+RoxygenNote: 7.1.1
+Encoding: UTF-8
